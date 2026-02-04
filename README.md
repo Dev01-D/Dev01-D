@@ -30,9 +30,6 @@ I treat my homelab as a digital fortress. My security interests focus on **Blue 
 | **Hardware** | ![Icewhale](https://img.shields.io/badge/-IceWhale-000000?logo=icloud&logoColor=white) ![RaspberryPi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?logo=raspberry-pi&logoColor=white) ![Intel](https://img.shields.io/badge/-Intel-0071C5?logo=intel&logoColor=white) |
 | **Software** | ![Docker](https://img.shields.io/badge/-Docker-2496ed?logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![Cockpit](https://img.shields.io/badge/-Cockpit-blue?logo=red-hat&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776ab?logo=python&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white) |
 
-### 📈 GitHub Activity
-![Dev01-D's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev01-D&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev01-D&layout=compact&theme=tokyonight)
 
 ---
 

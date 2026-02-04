@@ -34,7 +34,7 @@ I treat my homelab as a digital fortress. My security interests focus on **Blue 
 ---
 
 ### 📫 Connect with me
-- **Discord**: Find me in the [IceWhale Discord](https://discord.gg/icewhale)
+- **Discord**: Find me in the [IceWhale Discord]([https://discord.gg/icewhale](https://discord.gg/27Et7ng4uk))
 - **MakerWorld**: [Check out my 3D Models @SabiTech](https://makerworld.com/en/@SabiTech)
 - **GitHub**: You're already here! Check out my Gists and repos.
 

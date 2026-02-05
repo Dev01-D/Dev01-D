@@ -27,10 +27,9 @@ My security interests focus on **Blue Team** defense and **Network Hardening**.
 
 | Category | Tools |
 | :--- | :--- |
-| **Security** | ![Kali](https://img.shields.io/badge/-Kali_Linux-557C94?logo=kali-linux&logoColor=white) ![Nmap](https://img.shields.io/badge/-Nmap-black?logo=google-chrome&logoColor=white) ![Defender](https://img.shields.io/badge/-Microsoft_Defender-00A4EF?logo=microsoft&logoColor=white) ![Cisco](https://img.shields.io/badge/-Cisco_Firewall-049FD9?logo=cisco&logoColor=white) |
-| **Hardware** | ![Icewhale](https://img.shields.io/badge/-IceWhale-000000?logo=icloud&logoColor=white) ![RaspberryPi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?logo=raspberry-pi&logoColor=white) ![Intel](https://img.shields.io/badge/-Intel-0071C5?logo=intel&logoColor=white) |
+| **Security** | ![Kali](https://img.shields.io/badge/-Kali_Linux-557C94?logo=kali-linux&logoColor=white) ![Nmap](https://img.shields.io/badge/-Nmap-black?logo=google-chrome&logoColor=white) ![Defender](https://img.shields.io/badge/-Microsoft_Defender-00A4EF?logo=microsoft&logoColor=white) ![Meraki](https://img.shields.io/badge/-Meraki-94C120?logo=cisco&logoColor=white) ![UniFi](https://img.shields.io/badge/-UniFi-0559C9?logo=ubiquiti&logoColor=white) |
+| **Hardware** | ![Icewhale](https://img.shields.io/badge/-IceWhale-1f425f?logo=docker&logoColor=white) ![RaspberryPi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?logo=raspberry-pi&logoColor=white) ![Intel](https://img.shields.io/badge/-Intel-0071C5?logo=intel&logoColor=white) |
 | **Software** | ![Docker](https://img.shields.io/badge/-Docker-2496ed?logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![Cockpit](https://img.shields.io/badge/-Cockpit-blue?logo=red-hat&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776ab?logo=python&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white) |
-
 
 ---
 

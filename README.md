@@ -5,20 +5,21 @@
 ---
 
 ### ❄️ Community & IceWhale
-I’m a lead moderator for the **IceWhale** community. If you’re exploring the Zima ecosystem, you’ll find me on Discord helping users optimize their hardware.
+I’m a lead moderator for the **IceWhale** community. If you’re exploring the Zima ecosystem, you’ll find me on Discord helping users get the most out of their hardware.
 - 🛡️ **Moderator**: Guiding the ZimaBoard/ZimaBlade/ZimaCube community.
-- 🐧 **Self-Hosting**: Extensive experience with **ZimaOS**, **CasaOS**, and Docker-based deployments.
+- 🐧 **Self-Hosting**: Extensive experience with **ZimaOS**, **CasaOS**, **Debian**, **Ubuntu**, and Docker-based deployments.
 
 ### 🛡️ Cybersecurity & Defense
-I treat my homelab as a digital fortress. My security interests focus on **Blue Team** defense and **Network Hardening**.
+I treat my homelab as a digital playground. Combining a test environment and production environment to check stability and performance before delpoyment. 
+My security interests focus on **Blue Team** defense and **Network Hardening**.
 - 🔍 **Monitoring**: Setting up IDS/IPS (Suricata/Snort) and SIEM solutions to monitor lab traffic.
 - 🔒 **Hardening**: Implementing zero-trust networking, SSH auditing, and secure containerization.
 - ⚡ **Tooling**: Familiar with Nmap, Wireshark, and Kali Linux for local vulnerability scanning.
 
 ### 🏠 Lab & Workshop
 - 🖥️ **Homelab**: A mix of Zima hardware and custom nodes for media, storage, and security testing.
-- 🤖 **3D Printing**: Printing functional parts for server racks and custom hardware enclosures.
-- 🔧 **Tinkering**: I love "voiding warranties" to improve hardware performance or cooling.
+- 🤖 **3D Printing**: Printing functional parts for server racks, custom hardware enclosures and general office organisation.
+- 🔧 **Tinkering**: I love "voiding warranties" to build something useful, improve hardware performance or cooling.
 
 ---
 

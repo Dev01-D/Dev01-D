@@ -35,7 +35,7 @@ My security interests focus on **Blue Team** defense and **Network Hardening**.
 
 ### 📫 Connect with me
 - **Discord**: Find me in the [IceWhale Discord](https://discord.gg/27Et7ng4uk)
-- **MakerWorld**: [Check out my 3D Models @SabiTech](https://makerworld.com/en/@SabiTech)
+- **MakerWorld**: [Check out my 3D Models](https://makerworld.com/en/@SabiTech)
 - **GitHub**: You're already here! Check out my Gists and repos.
 
 *"If it isn't broken, I haven't tinkered with it enough yet."*

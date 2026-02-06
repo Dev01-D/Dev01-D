@@ -12,7 +12,7 @@ I’m a lead moderator for the **IceWhale** community. If you’re exploring the
 ### 🛡️ Cybersecurity & Defense
 I treat my homelab as a digital playground. Combining a test environment and production environment to check stability and performance before delpoyment. 
 My security interests focus on **Blue Team** defense and **Network Hardening**.
-- 🔍 **Monitoring**: Setting up IDS/IPS (Suricata/Snort) and SIEM solutions to monitor lab traffic.
+- 🔍 **Monitoring**: Setting up IDS/IPS (Crowdsec) and Beszel to track resource use and availability.
 - 🔒 **Hardening**: Implementing zero-trust networking, SSH auditing, and secure containerization.
 - ⚡ **Tooling**: Familiar with Nmap, Wireshark, and Kali Linux for local vulnerability scanning.
 

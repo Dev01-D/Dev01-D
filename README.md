@@ -7,7 +7,7 @@
 ### ❄️ Community & IceWhale
 I’m a lead moderator for the **IceWhale** community. If you’re exploring the Zima ecosystem, you’ll find me on Discord helping users get the most out of their hardware.
 - 🛡️ **Moderator**: Guiding the ZimaBoard/ZimaBlade/ZimaCube community.
-- 🐧 **Self-Hosting**: Extensive experience with **ZimaOS**, **CasaOS**, **Debian**, **Ubuntu**, and Docker-based deployments.
+- 🐧 **Self-Hosting**: Extensive experience with **ZimaOS**, **CasaOS**, **Debian**, **Ubuntu**, and **Docker-based** deployments.
 
 ### 🛡️ Cybersecurity & Defense
 I treat my homelab as a digital playground. Combining a test environment and production environment to check stability and performance before delpoyment. 

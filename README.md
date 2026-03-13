@@ -1,16 +1,17 @@
-## Hi there 👋
+# 📦 This account has moved!
 
-<!--
-**Dev01-D/Dev01-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have migrated my development activity to **Codeberg**, a community-driven, non-profit platform for free and open-source software.
 
-Here are some ideas to get you started:
+### 🚀 Find me here:
+**[codeberg.org/your-username](https://codeberg.org/your-username)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ❓ Why the move?
+I'm shifting my focus toward platforms that prioritize digital sovereignty and open-source ethics. While this GitHub profile remains for archival purposes, all active development, new issues, and pull requests are happening over on Codeberg.
+
+### 🛠️ Active Projects
+* **[Microsoft Service Desk Toolkit]** - [A modular repository of shortcuts and Registry fixes for modern IT Service Desk technicians.]
+* **[Iapetus Production Home Lab]** - [Documented 'best practice' for my new production server]
+
+*See you on the other side!* 🏔️
